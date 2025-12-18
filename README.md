@@ -1,4 +1,4 @@
-# Radiolab-Style Podcast Player 🎙️
+# Radiolab-Style Podcast Player 
 
 A sleek, responsive, and highly aesthetic podcast player component built with **Vue 3**, **Vite**, and **Tailwind CSS**. This player is inspired by the minimalist and sophisticated design language of [Radiolab.org](https://www.radiolab.org).
 
